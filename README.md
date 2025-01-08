@@ -1,6 +1,6 @@
 # eth-fn
 
-In web3py, to call a function od a smart contract, it requires to include long ABI information.
+In web3py, to call a function of a smart contract, it requires to include long ABI information.
 
 https://web3py.readthedocs.io/en/stable/web3.contract.html
 
